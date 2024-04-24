@@ -77,7 +77,11 @@ import { ImagesComponent } from "./images/images.component";
     ImagesComponent,
     VideosComponent
   ],
-  imports: [BrowserModule, AppRoutingModule, CloudinaryModule],
+  imports: [
+    BrowserModule, 
+    AppRoutingModule, 
+    CloudinaryModule
+  ],
   providers: [],
   bootstrap: [AppComponent]
 })
