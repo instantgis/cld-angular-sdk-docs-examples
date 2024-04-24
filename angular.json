@@ -101,6 +101,5 @@
         }
       }
     }
-  },
-  "defaultProject": "cld-angular-sdk-docs-examples"
+  }
 }
